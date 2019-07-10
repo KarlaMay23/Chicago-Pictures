@@ -1,0 +1,11 @@
+.Pictures{
+display: flex;
+justify-content:space-between;
+flex-wrap: wrap;
+flex-direction:column;
+flex-flow:column wrap;
+  height:300px;
+  width: 300px;
+  .correct-ratio
+    object-fit: cover;
+}
