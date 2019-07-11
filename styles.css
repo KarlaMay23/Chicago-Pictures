@@ -1,11 +1,45 @@
+.heading{
+  color: Gray;
+
+}
+body{
+  background-color:#ffa6e5;
+}
 .Pictures{
 display: flex;
-justify-content:space-between;
+justify-content: space-between;
 flex-wrap: wrap;
-flex-direction:column;
-flex-flow:column wrap;
-  height:300px;
-  width: 300px;
-  .correct-ratio
-    object-fit: cover;
+flex-direction: column;
+flex-flow: column wrap;
+padding:;
+border:;
+  height:30%;
+  width: 30%;
+  text-align: justify;
+  object-fit: scale-down;
+}
+.Chipic1-3{
+display: flex;
+justify-content: space-around;
+}
+.Chipic4-6{
+  display: flex;
+  justify-content: space-around;
+}
+.Chipic7-8{
+  display: flex;
+  justify-content: space-around;
+}
+.Chipic11-13{
+  display: flex;
+  justify-content: space-around;
+}
+.Chipic14-17{
+  display: flex;
+  justify-content: space-around;
+}
+.Chipic18-20{
+  display: flex;
+  justify-content:
+
 }
